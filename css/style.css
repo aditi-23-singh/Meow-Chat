@@ -1,0 +1,85 @@
+ body {
+    height: 100vh;
+    background-image: linear-gradient(rgb(207, 222, 213), rgb(73, 3, 46));
+}
+
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+}
+
+h1 {
+    margin: 12px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    text-align: centre;
+    display: block;
+
+}
+
+.container {
+    max-width: 955px;
+    border: 2px solid black;
+    border-radius: 13px;
+    margin: auto;
+    height: 60vh;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+
+}
+
+.message {
+    background-color: rgb(243, 240, 240);
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+
+}
+
+.left {
+    float: left;
+    clear: both;
+
+}
+
+.right {
+    float: right;
+    clear: both;
+}
+
+#send-container {
+    display: block;
+    margin: auto;
+    text-align: centre;
+    max-width: 1085px;
+    width: 100%;
+
+}
+
+#messageInp {
+    width: 88%;
+    border: 1px solid black;
+    border-radius: 6px;
+    height: 33px;
+    font-size: 22px;
+    font-family: sans-serifv;
+
+
+}
+
+.btn {
+    margin: 0 5px;
+    width: 9%;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 34px;
+}
