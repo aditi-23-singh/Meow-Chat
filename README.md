@@ -29,19 +29,7 @@ Node.js: The JavaScript runtime environment that powers the server-side of the a
 
 Socket.IO: A robust library enabling real-time, bidirectional, and event-based communication between the web client and the Node.js server.
 
-**📦 Project Structure**
-├── public/                # Directory for static assets (optional, if you serve them)
-│   ├── css/
-│   │   └── style.css      # Your application's CSS styles
-│   ├── img/
-│   │   └── img.png        # Your logo image
-│   ├── audio/
-│   │   └── ding2-89720.mp3 # Your message notification sound
-│   └── index.html         # The main HTML file for the chat interface
-├── client.js              # Frontend JavaScript logic for Socket.IO client and UI interactions
-└── server.js              # Backend Node.js server with Socket.IO setup
-└── package.json           # Node.js project configuration and dependencies
-(Note: If your index.html, css, img, and audio files are directly in the root alongside client.js and server.js, you can omit the public/ directory in this structure.)
+
 
 **🛠️ Installation & Setup**
 To get Meow Chat up and running on your local machine, follow these simple steps:
