@@ -1,4 +1,5 @@
 **Meow Chat - A Real-Time Chat Application**
+
 Meow Chat is a simple and intuitive real-time chat application designed to facilitate instant communication between multiple users. It leverages the power of WebSockets to provide a seamless and interactive chat experience, allowing users to join a common room, exchange messages, and stay updated on who enters or leaves the conversation.
 
 **✨ Features**
